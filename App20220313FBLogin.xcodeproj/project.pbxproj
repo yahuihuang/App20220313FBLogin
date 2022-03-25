@@ -91,7 +91,6 @@
 				96E319F015E7C40B6EC63E4F /* Pods-App20220313FBLogin.debug.xcconfig */,
 				EC1E7A17BE59188A477BEACB /* Pods-App20220313FBLogin.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -113,6 +112,8 @@
 			dependencies = (
 			);
 			name = App20220313FBLogin;
+			packageProductDependencies = (
+			);
 			productName = App20220313FBLogin;
 			productReference = 6503D84B27DDB89000DB8BD4 /* App20220313FBLogin.app */;
 			productType = "com.apple.product-type.application";
@@ -141,6 +142,8 @@
 				Base,
 			);
 			mainGroup = 6503D84227DDB89000DB8BD4;
+			packageReferences = (
+			);
 			productRefGroup = 6503D84C27DDB89000DB8BD4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
